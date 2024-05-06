@@ -101,4 +101,4 @@ is detected.
 When your computer is free of Rootkits, close the program and restart your  PC. 
   
 # RESULT:
-  To install a rootkit hunter and find the malwares in a computer was implemented successfully. 
+  To install a rootkit hunter and find the malwares in a computer was implemented successfully... 
